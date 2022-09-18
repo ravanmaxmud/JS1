@@ -3,3 +3,35 @@
     padding: 0;
     transition: 0.5s;
 }
+.group{
+    text-align: center;
+margin-top: 155px;
+}
+button{
+    padding: 12px 34px;
+    border-radius: 30px;
+    border: none;
+    font-size: large;
+    font-weight: 700;
+    background-color: darkorange;
+}
+.bg-btn{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+input{
+    padding: 12px 15px;
+    width: 279px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+}
+.group input{
+    margin-bottom:20px;
+}
+.group button{
+    margin-bottom: 20px;
+}
